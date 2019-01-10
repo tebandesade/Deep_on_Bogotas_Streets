@@ -23,3 +23,17 @@ The new files in this work are:
     * Modified file Detectron.pytorch/lib/datasets/dataset_catalog.py
 
 * Detectron.pytorch/Data/*
+
+# RetinaNet
+
+The new files in this work are: 
+
+* keras-retinanet/
+    * keras-retinanet/test_mio_images.py
+    * keras-retinanet/convert_vgglbl_csv.py
+
+* Modified files from keras-retinanet/keras_retinanet/
+    * keras-retinanet/keras_retinanet/bin/train.py
+    * keras-retinanet/keras_retinanet/bin/evaluate.py
+
+* keras-retinanet/data/*
