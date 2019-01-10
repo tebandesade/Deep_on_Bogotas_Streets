@@ -1,0 +1,3 @@
+[submodule "faster-r-cnn"]
+	path = faster-r-cnn
+	url = https://github.com/tebandesade/Detectron.pytorch
