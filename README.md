@@ -3,8 +3,8 @@ This repository contains the software used for my undergraduate thesis
 
 # Description
 The repo is divided into two: 
-    * FasterRCNN : that contains https://github.com/roytseng-tw/Detectron.pytorch and is the implementation of Facebook's Detectron, which has Faster R-CNN in Pytorch
-    * RetinaNet  : that contains https://github.com/fizyr/keras-retinanet and is the implementation of Facebooks's RetinaNet in Keras
+    * FasterRCNN : that contains https://github.com/roytseng-tw/Detectron.pytorch and is the implementation of Facebook's Detectron, which has Faster R-CNN in Pytorch 
+    * RetinaNet  : that contains https://github.com/fizyr/keras-retinanet and is the implementation of Facebooks's RetinaNet in Keras 
 
 
 # Faster R-CNN
@@ -21,3 +21,5 @@ The new files in this work are:
     * Modified file Detectron.pytorch/lib/datasets/dummy_datasets.py
     * Modified file Detectron.pytorch/lib/datasets/task_evaluation.py
     * Modified file Detectron.pytorch/lib/datasets/dataset_catalog.py
+
+* Detectron.pytorch/Data/*

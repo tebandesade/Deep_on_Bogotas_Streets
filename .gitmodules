@@ -1,3 +1,7 @@
-[submodule "faster-r-cnn"]
-	path = faster-r-cnn
+
+[submodule "fasterRCNN"]
+	path = fasterRCNN
 	url = https://github.com/tebandesade/Detectron.pytorch
+[submodule "RetinaNet"]
+	path = RetinaNet
+	url = https://github.com/tebandesade/keras-retinanet
